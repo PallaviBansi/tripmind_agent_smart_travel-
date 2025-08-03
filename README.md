@@ -51,4 +51,4 @@ Planning a trip often involves juggling multiple platforms for flights, hotels, 
 - 🌱 **Eco-Friendly Travel Suggestions** promoting sustainable tourism  
 - 🧑‍🤝‍🧑 **Group Trip Planning** with collaborative itinerary features  
 - 🕶️ **AR/VR Integration** for virtual destination previews  
-- 🛡️ **Travel Alerts & Safety Tips** based on current events  
+- 🛡️ **Travel Alerts & Safety Tips** based on current events 
